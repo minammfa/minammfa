@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mina Elya @minammfa
+- 👋 Hi, I’m Mina Elya
 - 👀 I’m interested in Data Analysis
 - 🌱 I’m currently learning python programming language
 - 💞️ I’m looking to collaborate on data analysis projects
